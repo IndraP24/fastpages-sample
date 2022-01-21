@@ -1,0 +1,1 @@
+Sitemap: https://indrap24.github.io/fastpages-sample/sitemap.xml
